@@ -7,7 +7,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/serdariset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serdariset" height="30" width="40" /></a>
-<a href="https://fb.com/mahmutsist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmutsist" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmutiset" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmutiset" height="30" width="40" /></a>
 
 
