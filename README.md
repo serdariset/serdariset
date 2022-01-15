@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Serdar</h1>
-<h3 align="left">I'm a Frontend Developer and Graphic Designer</h3>
+<h3 align="left">I'm a Fullstack Developer and Graphic Designer</h3>
 
-- 🌱 I’m currently learning **VueJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
