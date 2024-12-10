@@ -9,8 +9,6 @@ I worked 3+ years as a graphic designer, now i'm working as a front end develope
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mahmutserdarist@gmail.com](mailto:mahmutserdarist@gmail.com)
 * 🚀  I'm currently working on [Empactivo](http://empactivo.com)
-* 🧠  I'm learning Swift
-* 🤝  I'm open to collaborating on SaaS and UI library projects
 
 ### Skills
 
