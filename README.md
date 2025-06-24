@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Serdar and I'm a Sowftware Developer and Designer, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Serdar and I'm a Software Developer and Designer, from Turkey</h2>
 
 ###
 
